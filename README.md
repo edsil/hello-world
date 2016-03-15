@@ -1,2 +1,2 @@
 # hello-world
-Test repository to get hands on experience with github
+A branched version of the master reporsitory. This feels silly, hopeully I will learn something.
